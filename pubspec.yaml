@@ -35,6 +35,7 @@ dependencies:
   firebase_storage: 
   provider: 
   firebase_core: 
+  intl:
  
   
   
